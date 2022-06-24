@@ -9,6 +9,6 @@ A new Flutter project.
 ##Screenshot below:
 
 <p float=left>
-<img src="Screenshot_1597097591.png" width=300px>
+<img src="Screenshot_1597097591.png" width=500px>
 
 </p>
